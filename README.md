@@ -1,3 +1,22 @@
+###  Descrition
+This application is a clone of [Cristian Hernandez's](https://www.cristhianjhl.com/) movie app, and is made using 'The movie DB' for data and
+React.js with Hooks and ContextAPI for creation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
