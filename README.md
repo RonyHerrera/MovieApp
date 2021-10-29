@@ -1,4 +1,5 @@
-###  Descrition
+###  DESCRIPTION
+
 This application is a clone of [Cristian Hernandez's](https://www.cristhianjhl.com/) movie app, and is made using 'The movie DB' for data and
 React.js with Hooks and ContextAPI for creation.
 
